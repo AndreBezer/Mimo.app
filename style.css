@@ -1,0 +1,31 @@
+.titulo{
+    background-color: rgb(252, 181, 27);
+
+    font-size: medium;
+
+    .nivel1{
+        color: rgb(165, 91, 42);
+        text-align: center;
+    }
+    .nivel2{
+        color: rgb(165, 91, 42);
+        text-align: center;
+    }
+}
+
+.body{
+    background-color: rgb(136, 136, 252);
+
+    padding: 25px;
+    font-size: larger;
+
+    p{
+        color: rgb(47, 47, 189);
+    }
+
+    .cafe-img{
+        width: 200px;
+        height: 120px;
+        float: right;
+    }
+}
